@@ -9,4 +9,4 @@ Spark Funds has two minor constraints for investments:
 - It wants to invest only in English-speaking countries because of the ease of communication with the companies it would invest in
 
 ### Strategy
-Spark Funds wants to invest where most other investors are investing.
+The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
